@@ -1,4 +1,1 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-https://github.com/mervenss/kodluyoruzilkrepo.git
+![Kodluyoruz Logo](https://app.patika.dev/courses/git/markdown-nedir-nasil-kullaniriz-)
